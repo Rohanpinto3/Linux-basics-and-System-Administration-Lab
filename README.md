@@ -66,8 +66,8 @@ Create a recovery point before making system changes.
 
 ### Video Demonstration
 
-[▶️ Watch Terminal Basics Walkthrough](https://github.com/user-attachments/assets/148dac3b-512d-4f74-a596-716b04e6adab
-)
+https://github.com/user-attachments/assets/148dac3b-512d-4f74-a596-716b04e6adab
+
 
 ### Commands Practiced
 
@@ -110,8 +110,8 @@ Understand the difference between standard users and administrative users.
   
 ### Video Demonstration
 
-[▶️ Watch Linux User Levels and Sudo Walkthrough](https://github.com/user-attachments/assets/d9d30892-790c-4089-823e-1ad05ea5d7fb
-)
+https://github.com/user-attachments/assets/d9d30892-790c-4089-823e-1ad05ea5d7fb
+
 
 ---
 
@@ -119,8 +119,8 @@ Understand the difference between standard users and administrative users.
 
 ### Video Demonstration
 
-[View File Hierarchy Video](https://github.com/user-attachments/assets/09fc8108-b41e-4f6b-a961-431b11a6e9cc
-)
+https://github.com/user-attachments/assets/09fc8108-b41e-4f6b-a961-431b11a6e9cc
+
 
 
 
@@ -152,8 +152,8 @@ Understand the difference between standard users and administrative users.
 ## Task 6: Linux File Permissions
 
 ### Video Demonstration
-[View Linux File Permissions](https://github.com/user-attachments/assets/9e985431-5fca-4c09-be07-f16ecf61fea4
-)
+https://github.com/user-attachments/assets/9e985431-5fca-4c09-be07-f16ecf61fea4
+
 
 ![Ubuntu Desktop](https://files.catbox.moe/20thpa.png)
 
