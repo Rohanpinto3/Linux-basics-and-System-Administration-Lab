@@ -146,7 +146,7 @@ Understand the difference between standard users and administrative users.
 
 ### Video Demonstration
 
-[View Permissions Video](videos/linux-file-permissions.mp4)
+[Vie(videos/linux-file-permissions.mp4)
 
 ### Commands Practiced
 
