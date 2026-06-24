@@ -66,8 +66,10 @@ Create a recovery point before making system changes.
 
 ### Video Demonstration
 
-https://github.com/user-attachments/assets/148dac3b-512d-4f74-a596-716b04e6adab
 
+
+
+https://github.com/user-attachments/assets/4177576b-a16e-4c85-9446-6a09bd919e7e
 
 ### Commands Practiced
 
@@ -110,8 +112,7 @@ Understand the difference between standard users and administrative users.
   
 ### Video Demonstration
 
-https://github.com/user-attachments/assets/d9d30892-790c-4089-823e-1ad05ea5d7fb
-
+https://github.com/user-attachments/assets/a96a9578-bc5a-4e7d-8473-2b8ffa0a349e
 
 ---
 
@@ -119,7 +120,7 @@ https://github.com/user-attachments/assets/d9d30892-790c-4089-823e-1ad05ea5d7fb
 
 ### Video Demonstration
 
-https://github.com/user-attachments/assets/09fc8108-b41e-4f6b-a961-431b11a6e9cc
+https://github.com/user-attachments/assets/69a2f95c-1621-49c2-9956-5ec3294ca3da
 
 
 
@@ -152,8 +153,7 @@ https://github.com/user-attachments/assets/09fc8108-b41e-4f6b-a961-431b11a6e9cc
 ## Task 6: Linux File Permissions
 
 ### Video Demonstration
-https://github.com/user-attachments/assets/9e985431-5fca-4c09-be07-f16ecf61fea4
-
+https://github.com/user-attachments/assets/6a2e2b36-f8b4-4b9c-951c-949aeea44950
 
 ![Ubuntu Desktop](https://files.catbox.moe/20thpa.png)
 
@@ -177,7 +177,19 @@ cat test.txt
 
 
 
-https://github.com/user-attachments/assets/4177576b-a16e-4c85-9446-6a09bd919e7e
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
