@@ -173,3 +173,25 @@ cat test.txt
 * Modifying permissions
 * Changing file ownership
 * Managing file groups
+
+
+
+
+https://github.com/user-attachments/assets/4177576b-a16e-4c85-9446-6a09bd919e7e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
