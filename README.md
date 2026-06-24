@@ -155,7 +155,7 @@ Understand the difference between standard users and administrative users.
 [View Linux File Permissions](https://github.com/user-attachments/assets/9e985431-5fca-4c09-be07-f16ecf61fea4
 )
 
-
+![Ubuntu Desktop](https://files.catbox.moe/20thpa.png)
 
 ### Commands Practiced
 
